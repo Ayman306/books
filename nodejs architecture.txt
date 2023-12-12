@@ -1,0 +1,7 @@
+util / db.js -->> to connect database
+
+models/userModel.js -->> structure of database coloms [defining the colomns]
+
+controllers/user.js -->> logics for the api
+
+routes/userRoutes.js -->> routing of the application
